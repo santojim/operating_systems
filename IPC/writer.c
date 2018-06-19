@@ -9,6 +9,8 @@
 #include <time.h>
 #include <semaphore.h>
 #include <sys/ipc.h>
+#include <string.h>
+#include <unistd.h>
 
 int main(int argc,char *argv[])
 {
