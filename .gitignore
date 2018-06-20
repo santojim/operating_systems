@@ -1,2 +1,10 @@
 IPC/explanation.pdf
 SynchTool/explanation.pdf
+IPC/Reader_Output.txt
+IPC/Writer_Output.txt
+IPC/detacher
+IPC/*.o
+IPC/init
+IPC/reader
+IPC/writer
+
